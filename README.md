@@ -1,2 +1,2 @@
-## listy_i_wyjatki
+## listy i wyjatki
 
